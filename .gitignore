@@ -1,0 +1,23 @@
+[200~# Environments
+venv/
+.env
+env/
+
+# Python cache & Jupyter checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Data artifacts
+data/raw/*.csv
+data/processed/
+
+# Model & transformer artifacts
+models/*.joblib
+models/*.txt
+models/*.json
+
+# System files
+.DS_Store
+Thumbs.db
