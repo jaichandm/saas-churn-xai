@@ -1,0 +1,11 @@
+{
+  "optimal_threshold": 0.095,
+  "default_threshold": 0.5,
+  "cost_fn_usd": 500.0,
+  "cost_fp_usd": 50.0,
+  "test_pr_auc": 0.664,
+  "test_roc_auc": 0.8462,
+  "test_loss_at_optimal_usd": 35550.0,
+  "test_loss_at_default_usd": 52600.0,
+  "relative_loss_reduction_pct": 32.41
+}
